@@ -1,0 +1,12 @@
+if TARGET_MX6SABRESD
+
+config SYS_BOARD
+	default "tqimx6qcorec"
+
+config SYS_VENDOR
+	default "freescale"
+
+config SYS_CONFIG_NAME
+	default "tqimx6qcorec"
+
+endif
